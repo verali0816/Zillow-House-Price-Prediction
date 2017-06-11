@@ -1,4 +1,4 @@
-# [Predict the error of Zestimates using advanced regression methods]
+## Predict the error of Zestimates using advanced regression methods
 Members: Wenqian Li, Tongke Wu
 
 Considering the time consumed by each notebook, we have three sequential notebooks, 1-zillowproject.ipynb, 2-Cluster.ipynb, and 3-Data_analysis.ipynb. Please follow this order to go through our project. 
